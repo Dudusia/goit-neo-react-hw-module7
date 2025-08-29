@@ -6,10 +6,10 @@ export const getContacts = state => state.contacts.items;
 
 const slice = createSlice({
   name: 'contacts',
-  initialState: { 
+  initialState: {
     items: [],
     loading: false,
-    error: null
+    error: null,
   },
   extraReducers: builder =>
     builder
