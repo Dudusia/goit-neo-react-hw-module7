@@ -1,5 +1,11 @@
 # Changelog goit-neo-react-hw-module7
 
+## [1.1.1](https://gitlab.com/goit-uni/react/goit-neo-react-hw-module7/compare/1.1.0...1.1.1) (2025-08-29)
+
+### Bug Fixes
+
+* package-lock ([b093f5a](https://gitlab.com/goit-uni/react/goit-neo-react-hw-module7/commit/b093f5a463328badb375c0924221a00e99403d25))
+
 ## [1.1.0](https://gitlab.com/goit-uni/react/goit-neo-react-hw-module7/compare/1.0.0...1.1.0) (2025-08-29)
 
 ### Features
